@@ -1,0 +1,286 @@
+2026-05-05 23:24:04,789 - INFO - 🛰️ Conectando con Testnet...
+2026-05-05 23:24:05,558 - INFO - ✅ Conexión OK — BTC_USDT | 10x
+2026-05-05 23:24:05,728 - INFO - 📊 Multiplicador de contrato: 0.0001
+2026-05-05 23:24:23,021 - INFO - 🛰️ Conectando con Testnet...
+2026-05-05 23:24:23,777 - INFO - ✅ Conexión OK — BTC_USDT | 10x
+2026-05-05 23:24:23,945 - INFO - 📊 Multiplicador de contrato: 0.0001
+2026-05-05 23:26:25,559 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-05 23:31:52,975 - INFO - 🛰️ Conectando con Testnet...
+2026-05-05 23:31:53,887 - INFO - ✅ Conexión OK — BTC_USDT | 10x
+2026-05-05 23:31:54,056 - INFO - 📊 Multiplicador de contrato: 0.0001
+2026-05-05 23:42:35,549 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-05 23:46:53,691 - INFO - 🛰️ Conectando con Testnet...
+2026-05-05 23:46:54,417 - INFO - ✅ Conexión OK — BTC_USDT | 10x
+2026-05-05 23:46:54,585 - INFO - 📊 Multiplicador de contrato: 0.0001
+2026-05-05 23:49:38,928 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-05 23:54:41,422 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-05 23:55:29,060 - INFO - 🛰️ Conectando con Testnet...
+2026-05-05 23:55:29,772 - INFO - ✅ Conexión OK — BTC_USDT | 10x
+2026-05-05 23:55:29,939 - INFO - 📊 Multiplicador de contrato: 0.0001
+2026-05-05 23:58:14,853 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 00:03:17,288 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 00:08:21,781 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 00:14:19,031 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 00:16:04,040 - INFO - 🛰️ Conectando con Testnet...
+2026-05-06 00:16:04,818 - INFO - ✅ Conexión OK — BTC_USDT | 10x
+2026-05-06 00:16:04,990 - INFO - 📊 Multiplicador de contrato: 0.0001
+2026-05-06 00:17:53,806 - INFO - 🛰️ Conectando con Testnet...
+2026-05-06 00:17:54,524 - INFO - ✅ Conexión OK — BTC_USDT | 10x
+2026-05-06 00:17:54,695 - INFO - 📊 Multiplicador de contrato: 0.0001
+2026-05-06 00:18:53,008 - INFO - 🛰️ Conectando con Testnet...
+2026-05-06 00:18:53,706 - INFO - ✅ Conexión OK — BTC_USDT | 10x
+2026-05-06 00:18:53,875 - INFO - 📊 Multiplicador de contrato: 0.0001
+2026-05-06 00:18:58,754 - INFO - 🛰️ Conectando con Testnet...
+2026-05-06 00:18:59,436 - INFO - ✅ Conexión OK — BTC_USDT | 10x
+2026-05-06 00:18:59,603 - INFO - 📊 Multiplicador de contrato: 0.0001
+2026-05-06 00:19:50,540 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 00:24:05,465 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 01:03:17,257 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=SOL_USDT
+2026-05-06 01:03:17,767 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 01:36:17,035 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 01:36:17,799 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=XRP_USDT
+2026-05-06 02:10:45,155 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 02:26:45,477 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 02:45:50,664 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 02:45:51,254 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 03:32:53,578 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 03:32:55,374 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 04:05:58,481 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=ETH_USDT
+2026-05-06 04:05:58,624 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 04:39:17,446 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 04:39:18,565 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 05:22:12,179 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 05:37:48,858 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 05:54:43,138 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 06:27:44,274 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 06:27:46,444 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 06:59:58,108 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 06:59:58,198 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 07:34:41,543 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 07:34:41,603 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 08:09:28,365 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 08:09:28,396 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 08:26:37,599 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 08:26:38,608 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 08:44:58,791 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BNB_USDT
+2026-05-06 09:01:35,322 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 09:16:49,323 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=SOL_USDT
+2026-05-06 09:48:19,677 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=ETH_USDT
+2026-05-06 10:05:03,852 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 10:22:39,779 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 11:04:53,182 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=XRP_USDT
+2026-05-06 11:12:17,033 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 11:13:08,183 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 11:35:36,680 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 11:53:08,584 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 12:01:39,562 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 12:16:21,304 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BNB_USDT
+2026-05-06 12:18:54,952 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 12:19:18,410 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 12:27:21,128 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 12:32:44,274 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 12:37:49,961 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=ETH_USDT
+2026-05-06 12:38:33,621 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 13:03:18,663 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 13:03:43,736 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 13:06:53,497 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 13:07:00,929 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=ETH_USDT
+2026-05-06 13:12:07,649 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 13:12:23,101 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 13:34:05,493 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=XRP_USDT
+2026-05-06 14:00:03,584 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 14:00:24,940 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 14:08:14,695 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 14:08:20,268 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 14:25:22,030 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BNB_USDT
+2026-05-06 14:25:23,004 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BNB_USDT
+2026-05-06 14:30:53,671 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 14:31:11,432 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 14:34:27,090 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 14:34:29,708 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 14:37:14,447 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 14:37:27,272 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 14:41:06,095 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 14:44:48,992 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 14:45:20,515 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=XRP_USDT
+2026-05-06 14:50:49,301 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 14:50:52,454 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=SOL_USDT
+2026-05-06 15:00:10,953 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=ETH_USDT
+2026-05-06 15:03:29,865 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=SOL_USDT
+2026-05-06 15:20:09,589 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 15:20:23,732 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 15:30:16,875 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=SOL_USDT
+2026-05-06 15:30:26,985 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BNB_USDT
+2026-05-06 16:17:55,364 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 16:17:55,426 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 16:39:31,892 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=ETH_USDT
+2026-05-06 16:39:34,930 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=ETH_USDT
+2026-05-06 16:57:57,271 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 16:57:59,705 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 17:46:04,657 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 17:46:05,658 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 17:50:47,305 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 17:55:49,940 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 18:00:52,097 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 18:05:53,580 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 18:10:55,219 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 18:15:34,585 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='api-testnet.gateapi.io', port=443): Read timed out. (read timeout=None)")': /api/v4/futures/usdt/tickers?contract=BTC_USDT
+2026-05-06 18:15:56,852 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 18:18:10,758 - INFO - 🛰️ Conectando con Testnet...
+2026-05-06 18:18:11,547 - INFO - ✅ Conexión OK — BTC_USDT | 10x
+2026-05-06 18:18:11,713 - INFO - 📊 Multiplicador de contrato: 0.0001
+2026-05-06 18:18:18,175 - INFO - 🛰️ Conectando con Testnet...
+2026-05-06 18:18:18,866 - INFO - ✅ Conexión OK — BTC_USDT | 10x
+2026-05-06 18:18:19,031 - INFO - 📊 Multiplicador de contrato: 0.0001
+2026-05-06 18:21:54,108 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 18:25:49,254 - INFO - 🛰️ Conectando con Testnet...
+2026-05-06 18:25:50,035 - INFO - ✅ Conexión OK — BTC_USDT | 10x
+2026-05-06 18:25:50,200 - INFO - 📊 Multiplicador de contrato: 0.0001
+2026-05-06 18:25:56,684 - INFO - 🛰️ Conectando con Testnet...
+2026-05-06 18:25:57,402 - INFO - ✅ Conexión OK — BTC_USDT | 10x
+2026-05-06 18:25:57,579 - INFO - 📊 Multiplicador de contrato: 0.0001
+2026-05-06 18:27:13,784 - INFO - 🛰️ Conectando con Testnet...
+2026-05-06 18:27:14,495 - INFO - ✅ Conexión OK — BTC_USDT | 10x
+2026-05-06 18:27:14,661 - INFO - 📊 Multiplicador de contrato: 0.0001
+2026-05-06 18:29:57,545 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 18:30:02,383 - INFO - 🚀 Orden ejecutada @ $81,180.7000
+2026-05-06 18:30:05,020 - INFO - 🚀 Orden ejecutada @ $2,343.3500
+2026-05-06 18:30:06,026 - ERROR - Error en orden: margin 22996.653039999814 while available 733.7483412916
+2026-05-06 18:30:08,628 - INFO - 🚀 Orden ejecutada @ $645.9500
+2026-05-06 18:30:09,590 - ERROR - Error en orden: limit 100000
+2026-05-06 18:30:15,450 - INFO - 🚀 Orden ejecutada @ $81,153.6000
+2026-05-06 18:30:18,055 - INFO - 🚀 Orden ejecutada @ $2,342.8500
+2026-05-06 18:30:18,978 - ERROR - Error en orden: margin 23009.909549999879 while available 487.5710915166
+2026-05-06 18:30:21,610 - INFO - 🚀 Orden ejecutada @ $645.8500
+2026-05-06 18:30:22,667 - ERROR - Error en orden: limit 100000
+2026-05-06 18:35:10,187 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 18:35:14,732 - INFO - 🚀 Orden ejecutada @ $81,121.7000
+2026-05-06 18:35:17,399 - INFO - 🚀 Orden ejecutada @ $2,344.7000
+2026-05-06 18:35:18,323 - ERROR - Error en orden: margin 23003.722665000172 while available 261.613263379112
+2026-05-06 18:35:19,244 - ERROR - Error en orden: position value (include pending orders) would reach to 5999.0175 while risk limit is 5000
+2026-05-06 18:35:20,293 - ERROR - Error en orden: limit 100000
+2026-05-06 18:40:20,886 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 18:40:25,488 - INFO - 🚀 Orden ejecutada @ $81,036.1000
+2026-05-06 18:40:26,417 - ERROR - Error en orden: margin 189.9131605 while available 146.083842991612
+2026-05-06 18:40:27,381 - ERROR - Error en orden: margin 23004.94419500006 while available 149.538492991612
+2026-05-06 18:40:28,434 - ERROR - Error en orden: position value (include pending orders) would reach to 5997.0568 while risk limit is 5000
+2026-05-06 18:40:29,384 - ERROR - Error en orden: limit 100000
+2026-05-06 18:45:29,979 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 18:45:34,643 - INFO - 🚀 Orden ejecutada @ $81,008.9000
+2026-05-06 18:45:36,003 - ERROR - Error en orden: margin 189.81064125 while available 22.054662804112
+2026-05-06 18:45:36,962 - ERROR - Error en orden: margin 23002.950899999727 while available 23.334162804112
+2026-05-06 18:45:37,908 - ERROR - Error en orden: margin 43.00258 while available 40.731793966612
+2026-05-06 18:45:38,826 - ERROR - Error en orden: limit 100000
+2026-05-06 18:50:39,408 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 18:50:43,815 - INFO - 🚀 Orden ejecutada @ $81,055.1000
+2026-05-06 18:50:44,765 - ERROR - Error en orden: margin 189.822825 while available 7.439404429112
+2026-05-06 18:50:45,675 - ERROR - Error en orden: margin 23003.134785000244 while available 7.486426054112
+2026-05-06 18:50:46,602 - ERROR - Error en orden: margin 42.995915 while available 7.499860804112
+2026-05-06 18:50:47,523 - ERROR - Error en orden: limit 100000
+2026-05-06 18:55:48,137 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 18:55:51,497 - ERROR - Error en orden: margin 19.7447544 while available -55.521389345888
+2026-05-06 18:55:52,448 - ERROR - Error en orden: margin 189.833408 while available -55.835523333388
+2026-05-06 18:55:53,360 - ERROR - Error en orden: margin 23005.252279999917 while available -52.030610208388
+2026-05-06 18:55:54,285 - ERROR - Error en orden: margin 42.99425735 while available -47.922472320888
+2026-05-06 18:55:55,199 - ERROR - Error en orden: limit 100000
+2026-05-06 19:00:55,792 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 19:00:58,709 - ERROR - Error en orden: margin 19.72190472 while available -285.981659533388
+2026-05-06 19:00:59,639 - ERROR - Error en orden: margin 189.7724275 while available -291.063833533388
+2026-05-06 19:01:00,639 - ERROR - Error en orden: margin 23001.746274999858 while available -289.735072783388
+2026-05-06 19:01:01,680 - ERROR - Error en orden: margin 42.9784785 while available -329.317772783388
+2026-05-06 19:01:02,655 - ERROR - Error en orden: limit 100000
+2026-05-06 19:06:03,353 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 19:06:06,376 - ERROR - Error en orden: margin 16.4303531 while available 0.175038354112
+2026-05-06 19:06:07,330 - ERROR - Error en orden: margin 80.628153 while available 0.175038354112
+2026-05-06 19:06:08,240 - ERROR - Error en orden: margin 12601.348559999994 while available 0.175038354112
+2026-05-06 19:06:09,178 - ERROR - Error en orden: margin 100.74880435 while available 0.175038354112
+2026-05-06 19:06:10,107 - ERROR - Error en orden: limit 100000
+2026-05-06 19:11:10,711 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 19:11:13,311 - ERROR - Error en orden: margin 18.10279702 while available 0.175038354112
+2026-05-06 19:11:14,261 - ERROR - Error en orden: margin 23.195865 while available 0.175038354112
+2026-05-06 19:11:15,177 - ERROR - Error en orden: margin 36777.975429999632 while available 0.175038354112
+2026-05-06 19:11:16,106 - ERROR - Error en orden: margin 66.189425925 while available 0.175038354112
+2026-05-06 19:11:17,034 - ERROR - Error en orden: limit 100000
+2026-05-06 19:12:07,601 - INFO - 🛰️ Conectando con Testnet...
+2026-05-06 19:12:08,459 - INFO - ✅ Conexión OK — BTC_USDT | 10x
+2026-05-06 19:12:08,643 - INFO - 📊 Multiplicador de contrato: 0.0001
+2026-05-06 19:12:13,069 - INFO - 🛰️ Conectando con Testnet...
+2026-05-06 19:12:13,749 - INFO - ✅ Conexión OK — BTC_USDT | 10x
+2026-05-06 19:12:13,914 - INFO - 📊 Multiplicador de contrato: 0.0001
+2026-05-06 19:14:40,531 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 19:14:42,890 - ERROR - Error en orden: margin 18.11228727 while available 0.175038354112
+2026-05-06 19:14:43,854 - ERROR - Error en orden: margin 23.446988 while available 0.175038354112
+2026-05-06 19:14:44,848 - ERROR - Error en orden: margin 36765.651225000168 while available 0.175038354112
+2026-05-06 19:14:45,830 - ERROR - Error en orden: margin 66.17315365 while available 0.175038354112
+2026-05-06 19:14:46,790 - ERROR - Error en orden: limit 100000
+2026-05-06 19:14:50,049 - ERROR - Error en orden: margin 18.111863 while available 0.175038354112
+2026-05-06 19:14:51,007 - ERROR - Error en orden: margin 23.443967 while available 0.175038354112
+2026-05-06 19:14:51,953 - ERROR - Error en orden: margin 36768.311979999432 while available 0.175038354112
+2026-05-06 19:14:52,916 - ERROR - Error en orden: margin 66.1767334 while available 0.175038354112
+2026-05-06 19:14:53,881 - ERROR - Error en orden: limit 100000
+2026-05-06 19:16:18,344 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 19:16:21,264 - ERROR - Error en orden: margin 18.10391352 while available 0.175038354112
+2026-05-06 19:16:22,230 - ERROR - Error en orden: margin 23.653955 while available 0.175038354112
+2026-05-06 19:16:23,144 - ERROR - Error en orden: margin 36756.541269999122 while available 0.175038354112
+2026-05-06 19:16:24,074 - ERROR - Error en orden: margin 66.185446275 while available 0.175038354112
+2026-05-06 19:16:24,997 - ERROR - Error en orden: limit 100000
+2026-05-06 19:19:47,816 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 19:19:51,014 - ERROR - Error en orden: margin 18.09661161 while available 0.175038354112
+2026-05-06 19:19:51,994 - ERROR - Error en orden: margin 22.96359 while available 0.175038354112
+2026-05-06 19:19:52,993 - ERROR - Error en orden: margin 36702.107514999964 while available 0.175038354112
+2026-05-06 19:19:53,967 - ERROR - Error en orden: margin 66.2467159 while available 0.175038354112
+2026-05-06 19:19:54,919 - ERROR - Error en orden: limit 100000
+2026-05-06 19:21:25,583 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 19:21:28,438 - ERROR - Error en orden: margin 18.09098445 while available 0.175038354112
+2026-05-06 19:21:29,426 - ERROR - Error en orden: margin 22.953216 while available 0.175038354112
+2026-05-06 19:21:30,363 - ERROR - Error en orden: margin 36643.561935000423 while available 0.175038354112
+2026-05-06 19:21:31,382 - ERROR - Error en orden: margin 66.4302141 while available 0.175038354112
+2026-05-06 19:21:32,353 - ERROR - Error en orden: limit 100000
+2026-05-06 19:22:22,643 - ERROR - Error en orden: margin 18.08546894 while available 0.175038354112
+2026-05-06 19:22:23,632 - ERROR - Error en orden: margin 22.2709545 while available 0.175038354112
+2026-05-06 19:22:24,592 - ERROR - Error en orden: margin 36561.222395000349 while available 0.175038354112
+2026-05-06 19:22:25,540 - ERROR - Error en orden: margin 66.41651 while available 0.175038354112
+2026-05-06 19:22:26,515 - ERROR - Error en orden: limit 100000
+2026-05-06 19:22:40,815 - ERROR - Error en orden: margin 18.08834951 while available 0.175038354112
+2026-05-06 19:22:41,793 - ERROR - Error en orden: margin 22.72615175 while available 0.175038354112
+2026-05-06 19:22:42,762 - ERROR - Error en orden: margin 36710.35577500028 while available 0.175038354112
+2026-05-06 19:22:43,719 - ERROR - Error en orden: margin 66.221247 while available 0.175038354112
+2026-05-06 19:22:44,672 - ERROR - Error en orden: limit 100000
+2026-05-06 19:22:53,967 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 19:22:56,663 - ERROR - Error en orden: margin 18.089533 while available 0.175038354112
+2026-05-06 19:22:57,840 - ERROR - Error en orden: margin 22.945806 while available 0.175038354112
+2026-05-06 19:22:58,823 - ERROR - Error en orden: margin 36726.799049999768 while available 0.175038354112
+2026-05-06 19:22:59,837 - ERROR - Error en orden: margin 66.2315498 while available 0.175038354112
+2026-05-06 19:23:00,800 - ERROR - Error en orden: limit 100000
+2026-05-06 19:23:05,255 - ERROR - Error en orden: margin 18.09248056 while available 0.175038354112
+2026-05-06 19:23:06,247 - ERROR - Error en orden: margin 22.73300125 while available 0.175038354112
+2026-05-06 19:23:07,229 - ERROR - Error en orden: margin 36735.979500000643 while available 0.175038354112
+2026-05-06 19:23:08,199 - ERROR - Error en orden: margin 66.25919235 while available 0.175038354112
+2026-05-06 19:23:09,198 - ERROR - Error en orden: limit 100000
+2026-05-06 19:23:49,722 - ERROR - Error en orden: margin 19.75586256 while available 0.175038354112
+2026-05-06 19:23:50,688 - ERROR - Error en orden: margin 189.96884 while available 0.175038354112
+2026-05-06 19:23:51,652 - ERROR - Error en orden: margin 23005.803245000096 while available 0.175038354112
+2026-05-06 19:23:52,629 - ERROR - Error en orden: margin 42.9865926 while available 0.175038354112
+2026-05-06 19:23:53,576 - ERROR - Error en orden: limit 100000
+2026-05-06 19:24:51,638 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 19:24:54,614 - ERROR - Error en orden: margin 19.75829856 while available 0.175038354112
+2026-05-06 19:24:55,565 - ERROR - Error en orden: margin 189.80098925 while available 0.175038354112
+2026-05-06 19:24:56,533 - ERROR - Error en orden: margin 23003.500139999863 while available 0.175038354112
+2026-05-06 19:24:57,555 - ERROR - Error en orden: margin 42.9928018 while available 0.175038354112
+2026-05-06 19:24:58,562 - ERROR - Error en orden: limit 100000
+2026-05-06 19:25:01,819 - ERROR - Error en orden: margin 19.76075892 while available 0.175038354112
+2026-05-06 19:25:02,800 - ERROR - Error en orden: margin 189.81731025 while available 0.175038354112
+2026-05-06 19:25:03,746 - ERROR - Error en orden: margin 23003.060035000104 while available 0.175038354112
+2026-05-06 19:25:04,705 - ERROR - Error en orden: margin 43.0032981 while available 0.175038354112
+2026-05-06 19:25:05,664 - ERROR - Error en orden: limit 100000
+2026-05-06 19:25:18,949 - ERROR - Error en orden: margin 19.76814 while available 0.175038354112
+2026-05-06 19:25:19,918 - ERROR - Error en orden: margin 189.894835 while available 0.175038354112
+2026-05-06 19:25:20,885 - ERROR - Error en orden: margin 23003.894704999921 while available 0.175038354112
+2026-05-06 19:25:21,846 - ERROR - Error en orden: margin 42.99948185 while available 0.175038354112
+2026-05-06 19:25:22,796 - ERROR - Error en orden: limit 100000
+2026-05-06 19:26:32,932 - INFO - Iniciando ciclo de trading (ML + Markowitz)...
+2026-05-06 19:26:35,663 - ERROR - Error en orden: margin 19.76197692 while available 0.175038354112
+2026-05-06 19:26:36,602 - ERROR - Error en orden: margin 189.89891525 while available 0.175038354112
+2026-05-06 19:26:37,524 - ERROR - Error en orden: margin 23002.882360000147 while available 0.175038354112
+2026-05-06 19:26:38,448 - ERROR - Error en orden: margin 42.99948185 while available 0.175038354112
+2026-05-06 19:26:39,367 - ERROR - Error en orden: limit 100000

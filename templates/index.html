@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trading Dashboard App</title>
+    <link rel="stylesheet" href="/static/style.css?v=2">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- TradingView Lightweight Charts -->
+    <script src="https://unpkg.com/lightweight-charts@3.8.0/dist/lightweight-charts.standalone.production.js"></script>
+    <!-- Chart.js for efficient frontier -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+    <!-- SECCIÓN A: Header -->
+    <header class="header">
+        <div class="logo-section">
+            <div class="logo-icon">🚀</div>
+            <h1>Antigravity Trading</h1>
+        </div>
+        <div class="controls-section">
+            <span id="bot-status-badge" class="badge badge-red">INACTIVO</span>
+            <button id="btn-start" class="btn btn-primary">▶ Iniciar Bot</button>
+            <button id="btn-stop" class="btn btn-danger">⏹ Detener Bot</button>
+            <div class="clock" id="current-time">00:00:00</div>
+        </div>
+    </header>
+
+    <main class="dashboard-grid">
+        <!-- SECCIÓN B: Precios en tiempo real -->
+        <section class="price-cards-container" id="price-cards">
+            <!-- Cards dynamically populated -->
+        </section>
+
+        <!-- SECCIÓN C: Gráfica Principal -->
+        <section class="chart-section card">
+            <div class="chart-controls">
+                <select id="symbol-selector" class="dropdown">
+                    <option value="BTC_USDT">BTC_USDT</option>
+                    <option value="ETH_USDT">ETH_USDT</option>
+                    <option value="SOL_USDT">SOL_USDT</option>
+                    <option value="BNB_USDT">BNB_USDT</option>
+                    <option value="XRP_USDT">XRP_USDT</option>
+                </select>
+                <div class="timeframe-selector">
+                    <button class="tf-btn active" data-tf="1m">1m</button>
+                    <button class="tf-btn" data-tf="5m">5m</button>
+                    <button class="tf-btn" data-tf="15m">15m</button>
+                    <button class="tf-btn" data-tf="1h">1h</button>
+                    <button class="tf-btn" data-tf="4h">4h</button>
+                    <button class="tf-btn" data-tf="1d">1d</button>
+                </div>
+            </div>
+            <div id="tv-chart" class="tv-chart-container"></div>
+            <div id="rsi-chart" class="tv-chart-container rsi-container"></div>
+        </section>
+
+        <!-- SECCIÓN D: Panel de portafolio y riesgo -->
+        <section class="portfolio-risk-panel">
+            <div class="card col-1">
+                <h3>Portafolio Markowitz</h3>
+                <div class="pie-container">
+                    <canvas id="portfolioChart"></canvas>
+                </div>
+                <div class="portfolio-stats">
+                    <p>Sharpe Ratio: <span id="sharpe-val">0.0</span></p>
+                </div>
+            </div>
+            
+            <div class="card col-2">
+                <h3>Frontera Eficiente</h3>
+                <div class="scatter-container">
+                    <canvas id="efficientFrontierChart"></canvas>
+                </div>
+            </div>
+
+            <div class="card col-3">
+                <h3>Métricas de Riesgo</h3>
+                <table class="risk-table">
+                    <thead>
+                        <tr>
+                            <th>Symbol</th>
+                            <th>Entry</th>
+                            <th>Stop Loss</th>
+                            <th>Take Profit</th>
+                            <th>VaR 95%</th>
+                        </tr>
+                    </thead>
+                    <tbody id="risk-tbody">
+                        <!-- Dynamic rows -->
+                    </tbody>
+                </table>
+                <div class="roi-mini">
+                    <h4>ROI Simulado</h4>
+                    <canvas id="roiChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECCIÓN E: Evaluación del Modelo -->
+        <section class="evaluation-panel">
+            <div class="card eval-col">
+                <h3>Matriz de Confusión</h3>
+                <div class="confusion-matrix" id="confusion-matrix-grid">
+                    <!-- CSS Grid rendering -->
+                </div>
+            </div>
+            <div class="card eval-col">
+                <h3>Hiperparámetros & Feature Importance</h3>
+                <div class="metrics-list" id="metrics-list">
+                    <!-- Params -->
+                </div>
+                <div class="feature-importance" id="feature-bars">
+                    <!-- CSS Bars rendering -->
+                </div>
+                <button id="btn-export" class="btn btn-outline">⬇ Exportar CSV</button>
+            </div>
+        </section>
+    </main>
+
+    <script src="/static/app.js?v=2"></script>
+</body>
+</html>
